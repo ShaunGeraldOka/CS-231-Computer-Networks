@@ -13,6 +13,28 @@
 ## 4.2 Multiple Access Protocols
 - algorithms for allocation
 
+### Collision prone  protocols
+1. ALOHA
+- Pure ALOHA
+    - collisions are frequent because transmission is anytime user want
+- Slotted ALOHA
+    - time slot exists so not all the time a user can send only when a time slot has started
+2. CSMA
+- **persistence in listening and sending after**
+
+### Collision-Free protocols
+1. Bit Map Protocol
+2. Token Passing
+3. Binary Countdown
+
+### Wireless LAN Protocols
+
+- MACA
+    - rts
+    - cts
+
+# END OF MODULE 4
+# EXTRA INFO
 ## 4.3 ETHERNET
 - IEEE 802.3
 - real system using channel allocation
@@ -24,4 +46,4 @@
     - uses switches to connect computers
     - what we use today
     - 100, 1 000, 10 000, 40 000, 100 000 Mbps
-        - fast, gigabit, 10-gigabit, 40-gigabit, 100-gigabit Ethernet
+        - fast, gigabit, 10-gigabit, 40-gigabit, 100-gigabit Ethernet 
